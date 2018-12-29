@@ -1,0 +1,51 @@
+body {
+	background-color: #D1D0D0; 
+	color: #292929;
+	font-family: "Assistant", Helvetica, sans-serif;
+	font-size: 1.25em;
+}
+
+#container {
+	margin: 0 auto;
+	width: 50%;
+	padding: 2%;
+}
+
+h3 {
+	font-weight: 400;
+	color: #737272;
+	margin-top: -10px;
+}
+
+::selection {
+	background-color: #BA8A00;
+}
+
+a {
+	text-decoration: none;
+	color: #292929;
+	border-bottom: 1px solid #E0A600;
+	padding-bottom: 0;
+	box-shadow: 0px -4px 0px #E0A600 inset;
+}
+
+a:hover {
+	background-color: #E0A600;
+}
+
+.dummy {
+	display: none;
+	visibility: i 
+}
+
+.material-icons {
+	font-size: 0.75em;
+	box-shadow: none;
+	border-bottom: none;
+}
+
+@media only screen and (max-width: 780px) {
+  #container {
+    width: 90%;
+  }
+}
