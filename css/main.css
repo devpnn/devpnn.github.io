@@ -70,9 +70,10 @@ img:hover {
 }
 
 a {
+	background-color: #46F216;
+	color: black;
 	text-decoration: none;
-	color: #46F216;
-	padding-bottom: 0;
+	padding: 2px;
 	text-shadow: 0.5px 0.5px 0 black;
 	font-weight: 600;
 }
