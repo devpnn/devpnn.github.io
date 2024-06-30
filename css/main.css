@@ -124,12 +124,12 @@ a:hover {
   	overflow-y: scroll;
 	overflow-x: hidden;  
   }
-  #container, #intro {
+  #container {
     width: 90%;
   }
- 	#intro {
- 		width: 75%;
- 		margin-top: 150px;
- 		margin-left: 0;
- 	}
+  #intro {
+    width: 75%;
+    margin-top: 150px;
+    margin-left: 0;
+  }
 }
