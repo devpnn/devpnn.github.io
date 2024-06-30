@@ -121,7 +121,8 @@ a:hover {
 
 @media only screen and (max-width: 600px) {
   body {
-  	overflow: scroll;
+  	overflow-y: scroll;
+	overflow-x: hidden;  
   }
   #container, #intro {
     width: 90%;
