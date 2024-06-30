@@ -138,4 +138,7 @@ a:hover {
     margin-top: 150px;
     margin-left: 0;
   }
+  #pic2 {
+    width: 100%; 	  
+  }
 }
