@@ -119,21 +119,7 @@ a:hover {
  	}
 }
 
-@media only screen and (max-width: 600px) {
-  body {
-  	overflow: scroll;
-  }
-  #container, #intro {
-    width: 90%;
-  }
- 	#intro {
- 		width: 75%;
- 		margin-top: 150px;
- 		margin-left: 0;
- 	}
-}
-
-@media only screen and (max-height: 800px) {
+@media only screen, (max-width: 600px), (max-height: 1000px) {
   body {
   	overflow: scroll;
   }
