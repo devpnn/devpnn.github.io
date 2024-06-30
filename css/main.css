@@ -58,6 +58,12 @@ body::-webkit-scrollbar {
 .emph {
 	color: #46F216;
 }
+
+img:hover {
+	background-color: #F277A4;
+	color: #0D0D0D;
+}
+
 ::selection {
 	background-color: #F277A4;
 	color: #0D0D0D;
