@@ -61,12 +61,12 @@ body::-webkit-scrollbar {
 
 img:hover {
 	background-color: #F277A4;
-	color: #0D0D0D;
+	color: black;
 }
 
 ::selection {
 	background-color: #F277A4;
-	color: #0D0D0D;
+	color: black;
 }
 
 a {
@@ -79,7 +79,7 @@ a {
 
 a:hover {
 	background-color: #F277A4;
-	color: #0D0D0D;
+	color: black;
 	text-shadow: none;
 	cursor: cell;
 }
